@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An approach to Relation Extraction**
 
-- 🌱 I’m currently learning **Text Mining, Foundations of Machine Learning, Cognitive Robotics, and Computer Vision**
+- 🌱 I’m currently learning **Text Mining and Computer Vision**
 
 - 📫 How to reach me: **sav.shreya02@gmail.com**
 
