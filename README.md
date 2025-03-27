@@ -21,7 +21,7 @@
   <li>⚡ Fun fact: <strong>Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.</strong></li>
 </ul>
 
-    </td>
+  </td>
     <td align="right">
       <img src="cat-coding.png" alt="Coding Cat" width="200" />
     </td>
