@@ -11,7 +11,7 @@
   <li>📬 How to reach me: <a href="mailto:sav.shreya02@gmail.com">sav.shreya02@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.</strong></li>
 </ul>
-
+<br>
 
 ## 🌐 Connect with me
 
