@@ -23,7 +23,7 @@
 
    </td>
     <td align="right">
-      <img src="cat-coding.png" alt="Coding Cat" width="200" />
+      <img src="cat-coding.png" alt="Coding Cat" width="300" />
     </td>
   </tr>
 </table>
