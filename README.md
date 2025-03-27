@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact: **My GPU fans sing me a lullaby whenever I’m tuning hyperparameters past midnight.**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
