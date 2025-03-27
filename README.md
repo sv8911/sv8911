@@ -7,8 +7,7 @@
 
 - 📫 How to reach me: **sav.shreya02@gmail.com**
 
-- ⚡ Fun fact: **Programming is 10% writing code…
-and 90% wondering what the hell past-you was thinking at 2AM.**
+- ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
 
 
 <h3 align="left">Connect with me:</h3>
