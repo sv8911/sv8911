@@ -9,6 +9,28 @@
 
 - ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
 
+<table>
+  <tr>
+    <td>
+
+<!-- Left side: Text content -->
+      
+- 🔭 I’m currently working on **Relation Extraction using Transformer Models**  
+- 🌱 I’m currently learning **Text Mining and Computer Vision**  
+- 📫 How to reach me: **sav.shreya02@gmail.com**  
+- ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
+
+    </td>
+    <td align="right">
+    
+<!-- Right side: Image -->
+      
+<img src="cat-coding.png" alt="Coding Cat" width="250"/>
+      
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Connect with me
 
