@@ -9,27 +9,28 @@
 
 - ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
 
-<table>
-  <tr>
-    <td>
+<h1 align="center">Hi 👋, I'm Shreya Abraham Varghese</h1>
+<h3 align="center">I’m an AI/ML enthusiast and researcher.</h3>
 
-<!-- Left side: Text content -->
-      
-- 🔭 I’m currently working on **Relation Extraction using Transformer Models**  
+<!-- Two-column layout without visible borders -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+<!-- Text section -->
+<div style="flex: 1; min-width: 250px;">
+
+- 🛰️ I’m currently working on **Relation Extraction using Transformer Models**  
 - 🌱 I’m currently learning **Text Mining and Computer Vision**  
-- 📫 How to reach me: **sav.shreya02@gmail.com**  
+- 📬 How to reach me: [sav.shreya02@gmail.com](mailto:sav.shreya02@gmail.com)  
 - ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
 
-    </td>
-    <td align="right">
-    
-<!-- Right side: Image -->
-      
-<img src="cat-coding.png" alt="Coding Cat" width="250"/>
-      
-    </td>
-  </tr>
-</table>
+</div>
+
+<!-- Image section -->
+<div style="flex-shrink: 0; padding-left: 20px;">
+  <img src="cat-coding.png" alt="Coding Cat" width="200">
+</div>
+
+</div>
 
 
 ## 🌐 Connect with me
