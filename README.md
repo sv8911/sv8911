@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Abraham Varghese</h1>
 <h3 align="center">I’m an AI/ML enthusiast and researcher.</h3>
 
-- 🔭 I’m currently working on **Relation Extraction using Transformer Models**
-
-- 🌱 I’m currently learning **Text Mining and Computer Vision**
-
-- 📫 How to reach me: **sav.shreya02@gmail.com**
-
-- ⚡ Fun fact: **Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.**
-
 <p align="left">
   <img src="cat-coding.png" alt="Coding Cat" width="200" align="right" style="margin-left: 20px;"/>
 </p>
