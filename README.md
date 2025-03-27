@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Abraham Varghese</h1>
-<h3 align="center">I’m an AI enthusiast and researcher.</h3>
+<h3 align="center">I’m an AI/ML enthusiast and researcher.</h3>
 
 - 🔭 I’m currently working on **An approach to Relation Extraction**
 
