@@ -6,8 +6,8 @@
 </p>
 
 <ul>
-  <li>🛰️ I’m currently working on <strong>Relation Extraction using Transformer Models</strong></li><br>
-  <li>🌱 I’m currently learning <strong>Text Mining and Computer Vision</strong></li><br>
+  <li>🛰️ I’m currently working on <strong>RAG</strong></li><br>
+  <li>🌱 I’m currently learning <strong>Lang chain</strong></li><br>
   <li>📬 How to reach me: <a href="mailto:sav.shreya02@gmail.com">sav.shreya02@gmail.com</a></li><br>
   <li>⚡ Fun fact: <strong>Programming is 10% writing code and 90% wondering what the hell past-you was thinking at 2AM.</strong></li>
 </ul>
